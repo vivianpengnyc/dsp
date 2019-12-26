@@ -24,3 +24,6 @@ def CohenEffectSize(group1, group2):
     return d
  
  CohenEffectSize(firsts_totalwgt_lb, others_totalwgt_lb)
+
+# d = -0.08867292707260174 the differencein means is small. 
+# d = 0.029 the difference in means for pregnancy length
